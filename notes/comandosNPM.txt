@@ -1,0 +1,19 @@
+Comandos do npm 
+
+npm init
+
+    -> Inicia um novo projeto e inícia um formulário do projeto:
+
+    1- Digite o nome do projeto
+    2- Informar versão (padrão no caso atual 1.0.0)
+    3- Descrição do projeto
+    4- Arquivo inicial do projeto (geralmente index.js)
+    5- Repositório do github
+    6- Palavras-chave do projeto
+    7- Autor do projeto
+    8- Licença do projeto (no projeto atual foi usando ISC)
+    9- Confirmar (depois de confirmar o package.json será criado automaticamente)
+
+npm init -y
+
+    -> Inicia um novo projeto sem o formulário (preenche tudo com valores padrões)

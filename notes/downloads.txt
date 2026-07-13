@@ -1,0 +1,2 @@
+Link do vs code: https://code.visualstudio.com/
+Link do Node: https://nodejs.org/en

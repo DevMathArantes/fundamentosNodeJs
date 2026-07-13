@@ -1,0 +1,10 @@
+Comandos com o node
+
+node y/x.js
+
+    -> roda o arquivo x.js dentro da pasta y (caminho até x.js)
+
+node --watch y/x.js
+
+    -> roda o arquivo x.js dentro da pasta y e roda novamente sempre que houver alterações no arquivo x (para parar o comando, utilize o 
+    atalho CTRL + C).

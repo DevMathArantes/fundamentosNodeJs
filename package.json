@@ -1,0 +1,22 @@
+{
+  "name": "fundamentosnodejs",
+  "version": "1.0.0",
+  "description": "Projeto prático do curso de fundamentos NodeJs da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hw": "echo Hello World !!!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMathArantes/fundamentosNodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DevMathArantes/fundamentosNodeJs/issues"
+  },
+  "homepage": "https://github.com/DevMathArantes/fundamentosNodeJs#readme"
+}

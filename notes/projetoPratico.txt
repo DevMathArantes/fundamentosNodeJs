@@ -1,0 +1,7 @@
+DESCRIÇÃO
+
+Desenvolva um simulador de corridas inspirado em Mario Kart utilizando Node.js, onde toda a lógica do jogo será executada no 
+terminal. O jogador controlará um personagem e participará de corridas, podendo usar itens clássicos do universo Mario Kart. 
+A movimentação e interação ocorrerão por meio de entradas no console, com o simulador calculando os resultados da corrida, 
+uso de itens e posicionamento dos competidores. O foco do projeto está no desenvolvimento da lógica de jogo no backend, com 
+a execução e simulação acontecendo no ambiente do terminal.

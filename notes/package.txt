@@ -1,0 +1,13 @@
+O package.json basicamente é o coração de todo projeto node.js, ele possui chaves e valores essenciais que servem como parâmetros do projeto
+(resumindo: um resumo/descrição do projeto).
+
+-> parâmetros:
+
+    name: nome do projeto, não pode possuir espaços nem caracteres especiais
+    version: versão do node utilizada no projeto
+    description: descrição do projeto em uma string
+    main: arquivo a ser executado
+    scripts: automações a serem chamadas no terminal
+    keywords: palavras chaves que servem para catalogar o projeto
+    author: quem é o dono do projeto em string
+    license: tipo de licença do projeto

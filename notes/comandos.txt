@@ -1,0 +1,15 @@
+Comandos de navegação de diretórios
+
+    -> Listar itens do diretório: ls
+
+    -> Excluir itens do diretório: del * (excluir tudo dentro da pasta), no git bash e terminais linux use rm *
+
+    -> Excluir item x do diretório: del x (x = caminho do item), no git bash e terminais linux use rm x
+
+    -> Limpar teminal: cls, no git bash e terminais linux use clear
+
+    -> Mudar diretório: cd x para ir para o diretório x (x sendo o caminho da pasta) e cd .. para voltar uma barra da pasta atual
+
+    -> Criar uma pasta x no diretório: mkdir x
+
+    -> Abrir uma pasta x no vscode: code x
