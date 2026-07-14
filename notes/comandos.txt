@@ -13,3 +13,5 @@ Comandos de navegação de diretórios
     -> Criar uma pasta x no diretório: mkdir x
 
     -> Abrir uma pasta x no vscode: code x
+
+    -> Atalho para usar icones no windows: windows + ponto

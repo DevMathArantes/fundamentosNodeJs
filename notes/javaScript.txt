@@ -1,0 +1,11 @@
+async function serve para criar funções assíncronas, permitindo que o código espere por tarefas demoradas (como buscar dados em uma 
+API) sem travar a execução do resto do programa.
+
+await serve para fazer o JavaScript pausar a execução da função assíncrona até que uma tarefa demorada (uma Promise) seja concluída, 
+permitindo capturar o resultado dela diretamente.
+
+Função auto invocável (a função se chama sozinha): (function(){...})()
+
+Math.floor() -> serve para arredondar um número para baixo
+    
+Math.random() -> serve para gerar um número float aleatório entre 0 e 1

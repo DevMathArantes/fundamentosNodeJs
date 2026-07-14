@@ -5,3 +5,5 @@ terminal. O jogador controlará um personagem e participará de corridas, podend
 A movimentação e interação ocorrerão por meio de entradas no console, com o simulador calculando os resultados da corrida, 
 uso de itens e posicionamento dos competidores. O foco do projeto está no desenvolvimento da lógica de jogo no backend, com 
 a execução e simulação acontecendo no ambiente do terminal.
+
+Repositório do professor: https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart
